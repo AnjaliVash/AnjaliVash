@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnjaliVash
-- 👀 I’m interested in Software Development and Data Engineering
+- 👀 I’m interested in Data Engineering and Data Science.
 - 🌱 I’m currently working in Danske IT as associate Software Engineer.
-- 💞️ I’m looking to collaborate in Software development or Big Data.
+- 💞️ I’m looking to collaborate in Big Data, Azure DevOps, Airflow, Hive, Hadoop, Kafka.
 - 📫 You can reach me via gmail: anjali.chinu99@gmail.com
 
 <!---
